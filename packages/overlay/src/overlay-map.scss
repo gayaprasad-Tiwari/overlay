@@ -1,0 +1,35 @@
+:host{
+    --overlay-font-family: var(--global-font-family);
+    --overlay-font-color: var(--primary-text);
+    --overlay-font-weight: var(--font-weight-semi-bold);
+    --overlay-close-icon-color: currentColor;
+    
+    --overlay-popup-background-color:var(--neutral);
+    --overlay-popup-color:var(--primary-text);
+    --overlay-popup-font-family: var(--global-font-family);
+    --overlay-popup-font-color: var(--primary-text);
+    --overlay-popup-font-weight: var(--font-weight-semi-bold);
+    --overlay-popup-opacity:40%;
+
+    --overlay-slider-background-color:var(--neutral);
+    --overlay-slider-color:var(--primary-text);
+    --overlay-slider-font-family: var(--global-font-family);
+    --overlay-slider-font-color: var(--primary-text);
+    --overlay-slider-font-weight: var(--font-weight-semi-bold);
+    --overlay-slider-opacity:40%;
+
+    --overlay-full-background-color:var(--neutral);
+    --overlay-full-color:var(--primary-text);
+    --overlay-full-font-family: var(--global-font-family);
+    --overlay-full-font-color: var(--primary-text);
+    --overlay-full-font-weight: var(--font-weight-semi-bold);
+    --overlay-full-opacity:40%;
+
+    --overlay-button-touch-target:var(--touch-target-medium);
+    --overlay-button-secondary-color:var(--neutral);
+    --overlay-button-secondary-background-color:var(--secondary);
+    --overlay-button-tertiary-color:var(--secondary);
+    --overlay-button-tertiary-border-color:var(--secondary);
+}
+
+$overlay-font-size: 1.4rem;
